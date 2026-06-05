@@ -1,7 +1,7 @@
 # Trabalho Final de Sistemas Operacionais
 
 ## Grupo
-- Aluno 1: Fernando
+- Aluno 1: Fernando Goetz Mueller
 - Aluno 2: Arthur
 - Aluno 3: Matheus
 - Aluno 4: Guilherme
